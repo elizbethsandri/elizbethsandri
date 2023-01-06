@@ -26,9 +26,21 @@
        Check out my 
       <a href="https://lizsandri-portfolio.netlify.app/">
         <strong>portfolio</strong>
-      </a>
+      </a> 
     </p>
-</div>    
+</div> 
+  
+
+<div>        
+    <a href="mailto:elizabethsandri18@gmail.com">
+       <img width="78px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/elizbethsandri/">
+        <img width="99px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div> 
+
+<br /> 
 
 <div>
     <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
