@@ -1,7 +1,7 @@
 <div>
     <br />
-    <h2 style="font-size: 20px; line-height: 16px; ">Hello, I am Elizabeth Sandri ✨</h2>
-    <h3 style="font-size: 16px;">
+    <h2>Hello, I am Elizabeth Sandri ✨</h2>
+    <h3>
     Junior Front End Developer
     </h3>
 </div>
@@ -22,16 +22,24 @@
                 React/ NodeJS e-commerce platform (Udemy project).
             </li>
         </ul>
+</div> 
+<div>
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+
+<br /> 
+
+<div> 
     <p>
        Check out my 
       <a href="https://lizsandri-portfolio.netlify.app/">
         <strong>portfolio</strong>
       </a> 
     </p>
-</div> 
-  
-
-<div>        
     <a href="mailto:elizabethsandri18@gmail.com">
        <img width="78px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
@@ -40,14 +48,6 @@
     </a>
 </div> 
 
-<br /> 
 
-<div>
-    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
     
 
