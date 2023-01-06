@@ -1,16 +1,41 @@
-### Hi there 👋
+<div>
+    <br />
+    <h2 style="font-size: 20px; line-height: 16px; ">Hello, I am Elizabeth Sandri ✨</h2>
+    <h3 style="font-size: 16px;">
+    Junior Front End Developer
+    </h3>
+</div>
+<p>I love building harmonic and efficient websites/ web apps and learn more everyday. </p>
 
-<!--
-**elizbethsandri/elizbethsandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    I am currently learning:
+        <ul>
+            <li>React</li>
+            <li>Node JS</li>
+        </ul>
+    Projects I'm currently working on:
+        <ul>
+            <li>    
+                A company website: the goal is introduce them to its clients.
+            </li>
+            <li>
+                React/ NodeJS e-commerce platform (Udemy project).
+            </li>
+        </ul>
+    <p>
+       Check out my 
+      <a href="https://lizsandri-portfolio.netlify.app/">
+        <strong>portfolio</strong>
+      </a>
+    </p>
+</div>    
 
-Here are some ideas to get you started:
+<div>
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
